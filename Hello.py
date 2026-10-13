@@ -1,1 +1,1 @@
-print("Hello,Github Actions!@@25")
+print("Hello,Github Actions!')
